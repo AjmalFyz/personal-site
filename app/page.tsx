@@ -16,12 +16,13 @@ export default function landingPage() {
 
       <div className="h-96 flex flex-col justify-center items-center font-sans text-3xl font-bold text-center text-slate-600 ">
         <h1>
-          I'm{" "}
-          <span className=" text-indigo-700 animate-pulse inline-block ">
+          I&apos;m{" "}
+          <span className="text-indigo-700 animate-pulse inline-block">
             Ajmal{" "}
           </span>{" "}
-          and I builddd websites !
+          and I build websites!
         </h1>
+
         <button className="m-8 font-sans ring-2 ring-blue-500/50 rounded-md border-slate-200 hover:bg-violet-500 hover:text-slate-50 px-4 text-xs h-6 text-slate-600">
           Connect
         </button>
